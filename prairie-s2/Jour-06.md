@@ -27,7 +27,7 @@
 
 ### Méthodes agiles :
 
-* [ ] Initiation aux méthodes agiles
-* [ ] Mise en place la méthodologie Scrum
+* [X] Initiation aux méthodes agiles
+* [X] Mise en place la méthodologie Scrum
 * [ ] Mise en place du premier projet sur Jira
 * [ ] Découverte de Gitflow
