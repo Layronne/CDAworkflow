@@ -13,9 +13,9 @@
 
 * [ ] Comprendre l'intérêt du Markdown
 * [ ] Découvrir les balises de bases : 
-  * [ ] Titres
+  * [X] Titres
   * [ ] Images
-  * [ ] Listes
+  * [X] Listes
   * [ ] Formatage de texte (italique, souligné, gras)
   * [ ] Code
   * [ ] Citations
