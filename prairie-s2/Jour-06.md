@@ -4,8 +4,8 @@
 
 ### Maquettage : 
 
-* [ ] Découvrir le maquettage fonctionnel (wireframe)
-* [ ] Choix d’un outil de maquettage
+* [X] Découvrir le maquettage fonctionnel (wireframe)
+* [X] Choix d’un outil de maquettage
 * [ ] Reformulation et synthèse des demandes utilisateurs
 
 
