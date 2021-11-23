@@ -19,8 +19,8 @@
   * [X] Savoir architecturer une page HTML basique
   * [X] Comprendre le fonctionnement des attributs
   * [X] Savoir commenter dans une page HTML
-  * [ ] Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
+  * [X] Découvrir le principe de parents/enfants
+  * [X] Découvrir le HTML5 sémantique
   * [ ] Comprendre la différence entre les liens relatifs et liens absolus
   * [X] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
   * [X] Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
