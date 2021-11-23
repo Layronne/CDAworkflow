@@ -21,7 +21,7 @@
   * [X] Savoir commenter dans une page HTML
   * [X] Découvrir le principe de parents/enfants
   * [X] Découvrir le HTML5 sémantique
-  * [ ] Comprendre la différence entre les liens relatifs et liens absolus
+  * [X] Comprendre la différence entre les liens relatifs et liens absolus
   * [X] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
   * [X] Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
   * [ ] Découvrir les formulaires et leur validation en HTML5
