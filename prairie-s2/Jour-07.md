@@ -15,8 +15,8 @@
 
 * [ ] Découvrir les bases de HTML :
   * [X] Comprendre la structure de base HTML
-  * [ ] Découvrir les principaux tags HTML et comprendre leur utilité
-  * [ ] Savoir architecturer une page HTML basique
+  * [X] Découvrir les principaux tags HTML et comprendre leur utilité
+  * [X] Savoir architecturer une page HTML basique
   * [ ] Comprendre le fonctionnement des attributs
   * [ ] Savoir commenter dans une page HTML
   * [ ] Découvrir le principe de parents/enfants
