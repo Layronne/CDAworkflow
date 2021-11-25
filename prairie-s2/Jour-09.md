@@ -10,7 +10,7 @@
 * [ ] Savoir intégrer des polices extérieures dans le CSS
 * [X] Comprendre la notion de cascade en CSS
 * [X] Comprendre le fonctionnement de l'héritage en CSS
-* [ ] Comprendre la précédence en CSS
+* [X] Comprendre la précédence en CSS
 * [ ] Découvrir les sélécteurs avancés et les combinateurs en CSS
 * [X] Découvrir le responsive design :
   * [X] Comprendre l'utilité du responsive design
