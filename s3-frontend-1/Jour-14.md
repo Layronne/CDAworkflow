@@ -16,8 +16,8 @@
 * [X] Comprendre le fonctionnement et l'utilité des variables (http://fr.javascript.info/variables)
     * [X] Comprendre la différence entre `let`, `var` et `const`
     * [X] Faire les 3 exercices
-* [ ] Découvrir les 8 types de données en Javascript et comprendre leurs différences (http://fr.javascript.info/types)
-    * [ ] Faire l'exercice et analyser ses erreurs le cas échéant
+* [X] Découvrir les 8 types de données en Javascript et comprendre leurs différences (http://fr.javascript.info/types)
+    * [X] Faire l'exercice et analyser ses erreurs le cas échéant
 
 * [ ] Comprendre le fonctionnement de `alert`, `prompt` et https://fr.javascript.info/alert-prompt-confirm
   * [ ] Faire l’exercice et analyser ses erreurs
