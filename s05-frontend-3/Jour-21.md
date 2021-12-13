@@ -10,8 +10,8 @@
 * [X] Comprendre le `this` en Javascript (https://fr.javascript.info/object-methods)
   * [X] Faire les 5 exercices et analyser ses erreurs
 * [X] Découvrir le Chaînage optionnel `?.` (https://fr.javascript.info/object-toprimitive)
-* [ ] Découvrir les méthodes de primitives (https://fr.javascript.info/primitives-methods)
-  * [ ] Faire l’exercice et analyser ses erreurs
+* [X] Découvrir les méthodes de primitives (https://fr.javascript.info/primitives-methods)
+  * [X] Faire l’exercice et analyser ses erreurs
 * [ ] Appronfondir les `numbers` en Javascript (https://fr.javascript.info/number)
   * [ ] Faire les 6 exercices et analyser ses erreurs
 * [ ] Comprendre le fonctionnement des tableaux en Javascript (https://fr.javascript.info/array)
