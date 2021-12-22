@@ -40,13 +40,13 @@
       * [X] `elem.closest(css)`
     * [X] Comprendre la différence de sortie entre `querySelectorAll` et `getElementsBy*`
 
-* [ ] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
-  * [ ] Découvrir la différence entre les `nodeType` (1,3 et 9)
-  * [ ] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
-  * [ ] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
-  * Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
-  * [ ] Comprendre comment fonctionne `textContent` (quel est son point fort)
-  * [ ] Comprendre comment fonctionne `hidden`
+* [X] Comprendre ce que sont que les éléments qui composent le `DOM` (https://javascript.info/basic-dom-node-properties)
+  * [X] Découvrir la différence entre les `nodeType` (1,3 et 9)
+  * [X] Comprendre comment fonctionne `innerHTML` (quels sont les "dangers", ses limitations)
+  * [X] Comprendre comment fonctionne `outerHTML` (quelle est sa particularité)
+  * [X] Comprendre comment fonctionne `nodeValue` et `data` (quelle est leur utilité)
+  * [X] Comprendre comment fonctionne `textContent` (quel est son point fort)
+  * [X] Comprendre comment fonctionne `hidden`
 
 * [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
