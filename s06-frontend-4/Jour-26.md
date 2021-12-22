@@ -48,16 +48,16 @@
   * [X] Comprendre comment fonctionne `textContent` (quel est son point fort)
   * [X] Comprendre comment fonctionne `hidden`
 
-* [ ] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
+* [X] Comprendre la différence entre les `properties` et les `attributes` dans le `DOM` (https://javascript.info/dom-attributes-and-properties)
   * Savoir comment : 
-    * [ ] vérifier l'existence d'un `attribute`
-    * [ ] récupérer la valeur d'un `attribute`
-    * [ ] écrire une valeur pour un `attribute`
-    * [ ] supprimer un `attribute`
-    * [ ] récupérer une collection de tous les `attributes`
+    * [X] vérifier l'existence d'un `attribute`
+    * [X] récupérer la valeur d'un `attribute`
+    * [X] écrire une valeur pour un `attribute`
+    * [X] supprimer un `attribute`
+    * [X] récupérer une collection de tous les `attributes`
 
 
 * Codewars :
   * [X] Thinkful - String Drills: Repeater (https://www.codewars.com/kata/585a1a227cb58d8d740001c3)
-  * [ ] Remove First and Last Character Part Two (https://www.codewars.com/kata/570597e258b58f6edc00230d)
+  * [X] Remove First and Last Character Part Two (https://www.codewars.com/kata/570597e258b58f6edc00230d)
 
