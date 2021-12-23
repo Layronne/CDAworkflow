@@ -7,12 +7,12 @@
 
 #### Découvrir le `DOM` :
 
-* [ ] Savoir modifier un document (https://javascript.info/modifying-document)
+* [X] Savoir modifier un document (https://javascript.info/modifying-document)
   * Savoir :
-    * [ ] Créer un `element`
-    * [ ] Utilier les différentes méthodes d'insertions
-    * [ ] Supprimer un `node`
-    * [ ] Cloner un `node`
+    * [X] Créer un `element`
+    * [X] Utilier les différentes méthodes d'insertions
+    * [X] Supprimer un `node`
+    * [X] Cloner un `node`
 
 * [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
   * [ ] Comprendre la différence entre `className` et `classList`
