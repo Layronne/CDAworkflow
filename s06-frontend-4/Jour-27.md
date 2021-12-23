@@ -14,10 +14,10 @@
     * [X] Supprimer un `node`
     * [X] Cloner un `node`
 
-* [ ] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
-  * [ ] Comprendre la différence entre `className` et `classList`
-  * [ ] Savoir ajouter, supprimer et toggle une classe
-  * [ ] Savoir manipuler les styles dans les `elements`
+* [X] Savoir modifier un style dans un document (https://javascript.info/styles-and-classes)
+  * [X] Comprendre la différence entre `className` et `classList`
+  * [X] Savoir ajouter, supprimer et toggle une classe
+  * [X] Savoir manipuler les styles dans les `elements`
 
 * [ ] Comprendre la tailles des fenêtres et le défilement (https://fr.javascript.info/size-and-scroll-window)
   * [ ] Comprendre la différence entre la taille de la fenêtre et du document
